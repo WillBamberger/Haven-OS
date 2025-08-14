@@ -1,0 +1,17 @@
+base
+base-devel
+
+# QEMU + KVM + Networking + NAT
+qemu-full
+virt-manager
+libvirt
+dnsmasq
+vde2
+edk2-ovmf
+nftables
+iproute2
+bridge-utils
+
+# System Tools
+
+openssh
